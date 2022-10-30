@@ -133,7 +133,7 @@ NOR_pred=perceptron(train_4, test_4, l_rate, n_epoch)
 
 """
 -From the output, it looks like the OR gated boolean is the fastest to learn as the error goes to zero just 
-after 2 epochs
+after 3 epochs
 -I can now apply this algorithm to solve a problem with a much larger data set
 
 """
